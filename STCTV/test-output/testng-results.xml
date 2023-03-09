@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22616" started-at="2023-03-09T06:01:09Z" finished-at="2023-03-09T06:01:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22616" started-at="2023-03-09T06:01:09Z" finished-at="2023-03-09T06:01:31Z">
+      <class name="subscription.Subscription_Validation">
+        <test-method status="PASS" signature="openURL()[pri:0, instance:subscription.Subscription_Validation@2145433b]" name="openURL" is-config="true" duration-ms="12623" started-at="2023-03-09T06:01:09Z" finished-at="2023-03-09T06:01:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method status="PASS" signature="Validate_KSA()[pri:1, instance:subscription.Subscription_Validation@2145433b]" name="Validate_KSA" duration-ms="439" started-at="2023-03-09T06:01:22Z" finished-at="2023-03-09T06:01:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_KSA -->
+        <test-method status="PASS" signature="Validate_Bahrain()[pri:2, instance:subscription.Subscription_Validation@2145433b]" name="Validate_Bahrain" duration-ms="4727" started-at="2023-03-09T06:01:22Z" finished-at="2023-03-09T06:01:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Bahrain -->
+        <test-method status="PASS" signature="Validate_Kuwait()[pri:3, instance:subscription.Subscription_Validation@2145433b]" name="Validate_Kuwait" duration-ms="3782" started-at="2023-03-09T06:01:27Z" finished-at="2023-03-09T06:01:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate_Kuwait -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:subscription.Subscription_Validation@2145433b]" name="closeDriver" is-config="true" duration-ms="1012" started-at="2023-03-09T06:01:30Z" finished-at="2023-03-09T06:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- subscription.Subscription_Validation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
